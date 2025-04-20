@@ -1,47 +1,20 @@
 ---
-sidebar_position: 1
+title: Quiet Steps on the dhamma road
 ---
+## Suffering
 
-# Tutorial Intro
+Like other mortals, I too suffer. Recognizing one's own suffering and being honest with oneself is no easy task. It is often that we have a preexisting solution in our mind of our sufferings, that we fail to recognize the true cause of suffering. For example: if I suffer from poverty, then my solution is wealth. But it requires great amount of inclination of mind towards wisdom to see that the 'true' cause of suffering is not the absence of wealth but of something else. It requires a great deal of understanding and insight to truly see that rich people are also not free from suffering. Perhaps by desiring to be rich, are we wanting a different set of suffering? I don't believe the case is so. The case is more like that being rich extinguishes our suffering. If not all, at least to an extent.
 
-Let's discover **Docusaurus in less than 5 minutes**.
+What then is the true cause of suffering? This the blessed one explains in SN 56.13:
 
-## Getting Started
+> And what, bhikkhus, is the noble truth of the origin of suffering? It is this craving which leads to renewed existence, accompanied by delight and lust, seeking delight here and there; that is, craving for sensual pleasures, craving for existence, craving for extermination. This is called the noble truth of the origin of suffering.
 
-Get started by **creating a new site**.
+I am not interested in literal translations of suffering; some scholars argue that suffering is more like an ever-present state of mind, like general dissatisfaction. But the suttas always speak for themselves. Hence, the blessed one said:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+> Now this, monks, is the Noble Truth of suffering: birth is suffering, aging is suffering, death is suffering; sorrow, lamentation, pain, displeasure, and despair are suffering; association with the disliked is suffering, separation from the liked is suffering, not getting what one wants is suffering. In short, the five clinging-aggregates are suffering.
 
-### What you'll need
+Two noble truths, summed pretty fast, right? Not so easy. I am by no means an expert. Neither am I a bhikkhu, samanera. Neither I claim to be a sotapanna and above. I am just an ordinary lay person who is serious in the pursuit of the cessation of suffering. Hence, take my words with caution. Rather than taking as something rigid, I urge you to take it as something that's flexible. Something that may be you agree or disagree after you ponder on it. Something you can compare your understanding with. And something you can correct me with.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Craving is the cause of suffering. This is the hardest truth to digest of all. I have been eating it slowly to digest it slowly. And so far my experience says thus: Craving being the cause of suffering can be observed in two respects. One, in respect to the present life and one in the after life. Today, the modern man, does not believe in the after life and to be honest my experience so far also does not verify so. But it is through applying the practices in present life, that through leap of faith in the Buddha, I have come to believe or hypothesize that it does indeed exist.
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+I may not call it impossible but it indeed is theoretically impossible to go long way in practice to yield results the Buddha promised (extinguishing of suffering) without having faith in the right view. Without right view, one finds not the causes and reason on why he should practice this hard the practices that will be stated upcoming chapters. He finds no motivation, neither the will to continue this path that is so opposed to our daily life. So, to contemplate and establish faith on right view, one must stumble on 'What is right view?' Before stumbling to definition, right view is something that Buddha saw is right view you need to hold in accordance to reality to extinguish your suffering. As he himself having claimed to extinguish all possible suffering in this present life and possibility of rebirth (as birth is the cause of suffering and he the blessed one has extinguished all suffering, so no possibility of again suffering through birth - read carefully the above sutta on the noble truth of suffering), he has claimed to recognize the following as right view.
